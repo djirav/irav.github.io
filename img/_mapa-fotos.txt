@@ -1,0 +1,315 @@
+# id	archivo original
+instalaciones-01	1. Nuestras Instalaciones/IMG_5302.JPG
+instalaciones-02	1. Nuestras Instalaciones/IMG_5310.JPG
+instalaciones-03	1. Nuestras Instalaciones/IMG_5314.JPG
+instalaciones-04	1. Nuestras Instalaciones/IMG_5317.JPG
+instalaciones-05	1. Nuestras Instalaciones/IMG_5319.JPG
+instalaciones-06	1. Nuestras Instalaciones/IMG_5322.JPG
+instalaciones-07	1. Nuestras Instalaciones/IMG_5805.JPG
+instalaciones-08	1. Nuestras Instalaciones/IMG_5806.JPG
+instalaciones-09	1. Nuestras Instalaciones/IMG_5809.JPG
+instalaciones-10	1. Nuestras Instalaciones/IMG_5811.JPG
+instalaciones-11	1. Nuestras Instalaciones/IMG_7040.JPG
+salidas-pedagogicas-01	10. Salidas Pedagógicas/05dbf6f3-45aa-428b-9139-a63fec1bf994.jpg
+salidas-pedagogicas-02	10. Salidas Pedagógicas/6f991ef5-6c91-4d1f-8f73-e3dfb7e2a5b8.jpg
+salidas-pedagogicas-03	10. Salidas Pedagógicas/8cc7d51c-0961-4b0b-afd8-a35c5bdc5062.jpg
+salidas-pedagogicas-04	10. Salidas Pedagógicas/8d72b60e-2e9a-4761-a505-2c2297a12adb.jpg
+salidas-pedagogicas-05	10. Salidas Pedagógicas/8ffdab8e-ae04-416e-8c2d-903c9437703f.jpg
+salidas-pedagogicas-06	10. Salidas Pedagógicas/40adf179-99f3-49fc-927d-fe7d81d4865a.jpg
+salidas-pedagogicas-07	10. Salidas Pedagógicas/998c5057-a959-4937-8a06-b741fbfdc140.jpg
+salidas-pedagogicas-08	10. Salidas Pedagógicas/6411c2d1-687e-464f-a970-9171de82b596.jpg
+salidas-pedagogicas-09	10. Salidas Pedagógicas/25082024_SALIDAPEDAGOGICADECIMO (1).jpeg
+salidas-pedagogicas-10	10. Salidas Pedagógicas/25082024_SALIDAPEDAGOGICADECIMO.jpeg
+salidas-pedagogicas-11	10. Salidas Pedagógicas/a5310b97-82a6-4488-a2fa-6fb07a213037.jpg
+salidas-pedagogicas-12	10. Salidas Pedagógicas/ab1f38e5-c33f-4f65-94c3-2a0a7e5f9671.jpg
+salidas-pedagogicas-13	10. Salidas Pedagógicas/b7e91a18-bcfe-414d-9602-1d2917fa4d4f.jpg
+salidas-pedagogicas-14	10. Salidas Pedagógicas/b9d4b0d0-3744-4ea0-80b4-ce47533688da.jpg
+salidas-pedagogicas-15	10. Salidas Pedagógicas/c179e7ec-70aa-4049-aaff-842434d8a6ce.jpg
+salidas-pedagogicas-16	10. Salidas Pedagógicas/d5919abe-7f2b-4e56-9b81-c63ea75c9767.jpg
+salidas-pedagogicas-17	10. Salidas Pedagógicas/DJI_0738.jpg
+salidas-pedagogicas-18	10. Salidas Pedagógicas/f2eeb442-0fc6-49c5-807d-c0505396992a.jpg
+salidas-pedagogicas-19	10. Salidas Pedagógicas/fcec6735-6cc4-4704-962b-f3900d365784.jpg
+salidas-pedagogicas-20	10. Salidas Pedagógicas/IMG_0009.JPG
+salidas-pedagogicas-21	10. Salidas Pedagógicas/IMG_0176.JPG
+salidas-pedagogicas-22	10. Salidas Pedagógicas/IMG_0219.JPG
+salidas-pedagogicas-23	10. Salidas Pedagógicas/IMG_0269.JPG
+salidas-pedagogicas-24	10. Salidas Pedagógicas/IMG_1158.JPG
+salidas-pedagogicas-25	10. Salidas Pedagógicas/IMG_1172.JPG
+salidas-pedagogicas-26	10. Salidas Pedagógicas/IMG_1297.JPG
+salidas-pedagogicas-27	10. Salidas Pedagógicas/IMG_7029.HEIC
+salidas-pedagogicas-28	10. Salidas Pedagógicas/IMG_7030.HEIC
+salidas-pedagogicas-29	10. Salidas Pedagógicas/IMG_7038.HEIC
+salidas-pedagogicas-30	10. Salidas Pedagógicas/IMG_7041.HEIC
+salidas-pedagogicas-31	10. Salidas Pedagógicas/IMG_9471.HEIC
+salidas-pedagogicas-32	10. Salidas Pedagógicas/IMG_9481.HEIC
+salidas-pedagogicas-33	10. Salidas Pedagógicas/IMG_9493.HEIC
+salidas-pedagogicas-34	10. Salidas Pedagógicas/IMG_9605.HEIC
+salidas-pedagogicas-35	10. Salidas Pedagógicas/IMG_9630.HEIC
+salidas-pedagogicas-36	10. Salidas Pedagógicas/IMG_9631.HEIC
+salidas-pedagogicas-37	10. Salidas Pedagógicas/IMG_9644.HEIC
+salidas-pedagogicas-38	10. Salidas Pedagógicas/IMG_9660.HEIC
+salidas-pedagogicas-39	10. Salidas Pedagógicas/IMG_9674.HEIC
+salidas-pedagogicas-40	10. Salidas Pedagógicas/IMG_9837.JPG
+salidas-pedagogicas-41	10. Salidas Pedagógicas/IMG_9843.JPG
+salidas-pedagogicas-42	10. Salidas Pedagógicas/IMG_9845.JPG
+salidas-pedagogicas-43	10. Salidas Pedagógicas/IMG_9995.JPG
+salidas-pedagogicas-44	10. Salidas Pedagógicas/IMG_E1374.JPG
+salidas-pedagogicas-45	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 07.25.00 (3).jpeg
+salidas-pedagogicas-46	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 15.59.49 (2).jpeg
+salidas-pedagogicas-47	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 15.59.49 (3).jpeg
+salidas-pedagogicas-48	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 15.59.49.jpeg
+salidas-pedagogicas-49	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 15.59.50.jpeg
+salidas-pedagogicas-50	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 16.00.02 (1).jpeg
+salidas-pedagogicas-51	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 16.00.02.jpeg
+salidas-pedagogicas-52	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 16.01.51.jpeg
+salidas-pedagogicas-53	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 16.02.09.jpeg
+salidas-pedagogicas-54	10. Salidas Pedagógicas/WhatsApp Image 2023-06-07 at 16.02.18.jpeg
+salidas-pedagogicas-55	10. Salidas Pedagógicas/WhatsApp Image 2024-05-31 at 15.34.09.jpeg
+salidas-pedagogicas-56	10. Salidas Pedagógicas/WhatsApp Image 2024-08-05 at 14.31.26 (1).jpeg
+salidas-pedagogicas-57	10. Salidas Pedagógicas/WhatsApp Image 2024-10-30 at 14.25.49.jpeg
+salidas-pedagogicas-58	10. Salidas Pedagógicas/WhatsApp Image 2024-10-31 at 13.38.50.jpeg
+salidas-pedagogicas-59	10. Salidas Pedagógicas/WhatsApp Image 2025-09-30 at 12.27.10 PM (1).jpeg
+salidas-pedagogicas-60	10. Salidas Pedagógicas/WhatsApp Image 2025-09-30 at 12.29.31 PM.jpeg
+salidas-pedagogicas-61	10. Salidas Pedagógicas/WhatsApp Image 2025-09-30 at 12.35.05 PM.jpeg
+servicio-social-01	11. Servicio Social/3A362BDA-716E-4EA3-98E0-2FD7AA3B86FA.jpg
+servicio-social-02	11. Servicio Social/4C9C7682-20C5-4108-BC7C-CAB7F9C67551.jpg
+servicio-social-03	11. Servicio Social/8.jpg
+servicio-social-04	11. Servicio Social/49dee7e9-3aa6-4ce6-af2a-439f47e7417b.jpg
+servicio-social-05	11. Servicio Social/80e76e5c-bec1-4d30-a481-c7ae31f511a2.jpg
+servicio-social-06	11. Servicio Social/96a48cce-c729-443e-bb16-6f3c54faad69.jpg
+servicio-social-07	11. Servicio Social/558FD06A-123C-44F8-BD86-5E313719FC19.jpg
+servicio-social-08	11. Servicio Social/945ed4d7-c466-432e-a39f-e07f5e0f6f55.jpg
+servicio-social-09	11. Servicio Social/53553c0d-cf99-477d-8665-7cff434c7ef4.jpg
+servicio-social-10	11. Servicio Social/A2DC08B0-0DA4-47AF-83D3-8EE75655A88C.jpg
+servicio-social-11	11. Servicio Social/a333bbcd-27ad-4256-a889-9f4a62811ec1.jpg
+servicio-social-12	11. Servicio Social/ACE88326-1017-42D3-B086-07078B206A42.jpg
+servicio-social-13	11. Servicio Social/AD54F35F-CAA0-4D29-ABC5-C2412170AAD4.jpg
+servicio-social-14	11. Servicio Social/D620A43B-BA6B-4180-9CB6-A240FAD08C30.jpg
+servicio-social-15	11. Servicio Social/E43AEEA2-1EA7-4E37-B5E3-A5E8E8E51DD1.jpg
+servicio-social-16	11. Servicio Social/f98173ab-a673-442b-9be2-bafae44724dd.jpg
+servicio-social-17	11. Servicio Social/fb13ce1c-1066-423d-982d-75b527cf46c2.jpg
+servicio-social-18	11. Servicio Social/Foto04.PNG
+servicio-social-19	11. Servicio Social/IMG_4994.HEIC
+servicio-social-20	11. Servicio Social/IMG_4995.HEIC
+servicio-social-21	11. Servicio Social/IMG_4996.HEIC
+servicio-social-22	11. Servicio Social/IMG_4997.HEIC
+servicio-social-23	11. Servicio Social/IMG_5005.HEIC
+servicio-social-24	11. Servicio Social/IMG_5007.HEIC
+servicio-social-25	11. Servicio Social/IMG_5044.HEIC
+servicio-social-26	11. Servicio Social/IMG_5045.HEIC
+servicio-social-27	11. Servicio Social/IMG_5054.HEIC
+servicio-social-28	11. Servicio Social/IMG_5055.HEIC
+servicio-social-29	11. Servicio Social/IMG_5057.HEIC
+servicio-social-30	11. Servicio Social/IMG_5059.HEIC
+servicio-social-31	11. Servicio Social/WhatsApp Image 2024-10-30 at 14.32.41.jpeg
+musica-deportes-01	2. Escuelas extracurriculares de voleibol, fútbol y música/1.1.png
+musica-deportes-02	2. Escuelas extracurriculares de voleibol, fútbol y música/1.6.JPG
+musica-deportes-03	2. Escuelas extracurriculares de voleibol, fútbol y música/1.8.JPG
+musica-deportes-04	2. Escuelas extracurriculares de voleibol, fútbol y música/2.5.JPG
+musica-deportes-05	2. Escuelas extracurriculares de voleibol, fútbol y música/2.6.JPG
+musica-deportes-06	2. Escuelas extracurriculares de voleibol, fútbol y música/3.5.JPG
+musica-deportes-07	2. Escuelas extracurriculares de voleibol, fútbol y música/4.2.JPG
+musica-deportes-08	2. Escuelas extracurriculares de voleibol, fútbol y música/IMG_6518.JPG
+musica-deportes-09	2. Escuelas extracurriculares de voleibol, fútbol y música/IMG_6563.JPG
+musica-deportes-10	2. Escuelas extracurriculares de voleibol, fútbol y música/IMG_6564.JPG
+musica-deportes-11	2. Escuelas extracurriculares de voleibol, fútbol y música/IMG_6568.JPG
+musica-deportes-12	2. Escuelas extracurriculares de voleibol, fútbol y música/IMG_9317.HEIC
+steam-robotica-01	3. Escuelas extracurriculares de robótica y STEAM/IMG_0236.JPG
+steam-robotica-02	3. Escuelas extracurriculares de robótica y STEAM/IMG_0242.JPG
+steam-robotica-03	3. Escuelas extracurriculares de robótica y STEAM/IMG_0244.JPG
+steam-robotica-04	3. Escuelas extracurriculares de robótica y STEAM/IMG_0251.JPG
+steam-robotica-05	3. Escuelas extracurriculares de robótica y STEAM/IMG_0257.JPG
+steam-robotica-06	3. Escuelas extracurriculares de robótica y STEAM/IMG_0259.JPG
+steam-robotica-07	3. Escuelas extracurriculares de robótica y STEAM/IMG_6984.JPG
+steam-robotica-08	3. Escuelas extracurriculares de robótica y STEAM/IMG_6986.JPG
+steam-robotica-09	3. Escuelas extracurriculares de robótica y STEAM/IMG_7005.JPG
+steam-robotica-10	3. Escuelas extracurriculares de robótica y STEAM/IMG_7028.JPG
+steam-robotica-11	3. Escuelas extracurriculares de robótica y STEAM/IMG_7029.JPG
+steam-robotica-12	3. Escuelas extracurriculares de robótica y STEAM/IMG_8323.JPG
+steam-robotica-13	3. Escuelas extracurriculares de robótica y STEAM/IMG_8338.JPG
+steam-robotica-14	3. Escuelas extracurriculares de robótica y STEAM/IMG_8344.JPG
+preescolar-01	4. Preescolar GCA/1c851fd1-4b4c-4dc9-8843-ab334d3606ce.jpg
+preescolar-02	4. Preescolar GCA/1d776685-3af3-4522-ae57-43f211b08aaa.jpg
+preescolar-03	4. Preescolar GCA/2E3.png
+preescolar-04	4. Preescolar GCA/4e9ac58b-4d47-4b0f-a06b-d3eff4ebaeb3.jpg
+preescolar-05	4. Preescolar GCA/4f0ad322-37c7-402d-9264-68ba38433286.jpg
+preescolar-06	4. Preescolar GCA/6fd54ad9-c465-47e5-be5c-1d890ee00be6.jpg
+preescolar-07	4. Preescolar GCA/9ad2af9e-c450-4e47-81cd-0986b0648567.jpg
+preescolar-08	4. Preescolar GCA/22cc57c3-0031-48b8-af35-814ea86a5413.jpg
+preescolar-09	4. Preescolar GCA/32f8e24f-4535-4966-8b67-5db089bb949d.jpg
+preescolar-10	4. Preescolar GCA/41fa3c61-8bfd-4f27-a24e-45b14c9abfac.jpg
+preescolar-11	4. Preescolar GCA/47da6d62-b81f-4a92-a4ef-038a435c99bb.jpg
+preescolar-12	4. Preescolar GCA/48b23047-6cf4-4da2-aa92-3d4982cebd2b.jpg
+preescolar-13	4. Preescolar GCA/52E064F3-3D90-4A44-A40F-2ED11EC75967.jpg
+preescolar-14	4. Preescolar GCA/85d3ee4d-bb17-4bf1-a905-cad0c38e3a39.jpg
+preescolar-15	4. Preescolar GCA/98a5d09e-f705-4c88-b8f7-31513359df99.jpg
+preescolar-16	4. Preescolar GCA/352a954c-a351-45fb-a046-89d4fcaddac2.jpg
+preescolar-17	4. Preescolar GCA/405f67a7-fafd-4b87-8091-dcfd359db0b8.jpg
+preescolar-18	4. Preescolar GCA/427e6a21-84a1-410f-a053-e2daf3c07c21.jpg
+preescolar-19	4. Preescolar GCA/7089beda-e952-4d38-aa7d-b16c3d061f12.jpg
+preescolar-20	4. Preescolar GCA/54574bb9-51d1-4104-a5a3-1cc8afe3e2c9.jpg
+preescolar-21	4. Preescolar GCA/76825ed2-146f-4e32-ab01-72fd38d9482f.jpg
+preescolar-22	4. Preescolar GCA/284848.png
+preescolar-23	4. Preescolar GCA/9341184f-e0f9-4dea-8317-c894c2d96e22.jpg
+preescolar-24	4. Preescolar GCA/ad3f1fb1-9a68-4ed7-b8e1-4f3129fb4c6d.jpg
+preescolar-25	4. Preescolar GCA/adaa95d4-85cc-463e-92a6-595d4200b242.jpg
+preescolar-26	4. Preescolar GCA/af17ca3f-ac8a-4f5a-83de-da178574cdea.jpg
+preescolar-27	4. Preescolar GCA/b4e3fd18-833e-48c9-a493-bd6fda5ab892.jpg
+preescolar-28	4. Preescolar GCA/c0892406-01fd-4ec1-b631-39cb2bede5ef.jpg
+preescolar-29	4. Preescolar GCA/d8bc8f1e-0945-4823-9bbe-c16b49bc23f2.jpg
+preescolar-30	4. Preescolar GCA/d54bcf45-2fa2-4d05-a975-b54985f235e9.jpg
+preescolar-31	4. Preescolar GCA/dbe9f385-52f0-4dc9-b217-b558219bb6ad.jpg
+preescolar-32	4. Preescolar GCA/dd996a8e-c249-42b2-836a-54a7c0e3afc8.jpg
+preescolar-33	4. Preescolar GCA/e6c30fd3-874e-4b4a-b11e-6c2ca0b75889.jpg
+preescolar-34	4. Preescolar GCA/ef2cf4e1-f9ee-4d38-bcf8-2244fa2c0ac3.jpg
+preescolar-35	4. Preescolar GCA/f64aeaf4-f964-4ac4-b9b4-4da6d7dd2ad9.jpg
+preescolar-36	4. Preescolar GCA/fb833419-6d65-4c01-9adf-19f58a064e84.jpg
+preescolar-37	4. Preescolar GCA/fbce08e5-f9dd-49b6-88ec-f80cd547ebf5.jpg
+preescolar-38	4. Preescolar GCA/fbfb28cd-89af-4824-b430-31ca42d93cf5.jpg
+preescolar-39	4. Preescolar GCA/fc98f959-ff22-4ba1-86d8-3b51380580dc.jpg
+preescolar-40	4. Preescolar GCA/IMG_7108.JPG
+preescolar-41	4. Preescolar GCA/IMG_7109.JPG
+preescolar-42	4. Preescolar GCA/IMG_7110.JPG
+preescolar-43	4. Preescolar GCA/IMG_7111.JPG
+preescolar-44	4. Preescolar GCA/IMG_7114.JPG
+preescolar-45	4. Preescolar GCA/IMG_7115.JPG
+preescolar-46	4. Preescolar GCA/IMG_7117.JPG
+preescolar-47	4. Preescolar GCA/IMG_7120.JPG
+preescolar-48	4. Preescolar GCA/IMG_7125.JPG
+preescolar-49	4. Preescolar GCA/IMG-20230425-WA0032.jpg
+preescolar-50	4. Preescolar GCA/IMG-20230425-WA0038.jpg
+preescolar-51	4. Preescolar GCA/IMG-20230425-WA0039.jpg
+preescolar-52	4. Preescolar GCA/IMG-20230425-WA0040.jpg
+preescolar-53	4. Preescolar GCA/IMG-20230425-WA0041.jpg
+preescolar-54	4. Preescolar GCA/IMG-20230425-WA0046.jpg
+preescolar-55	4. Preescolar GCA/IMG-20230425-WA0047.jpg
+preescolar-56	4. Preescolar GCA/IMG-20230425-WA0049.jpg
+preescolar-57	4. Preescolar GCA/IMG-20230425-WA0051.jpg
+preescolar-58	4. Preescolar GCA/IMG-20230425-WA0055.jpg
+preescolar-59	4. Preescolar GCA/WhatsApp Image 2023-06-07 at 16.54.09.jpeg
+preescolar-60	4. Preescolar GCA/WhatsApp Image 2023-06-07 at 16.54.10.jpeg
+preescolar-61	4. Preescolar GCA/WhatsApp Image 2023-06-07 at 16.54.11.jpeg
+preescolar-62	4. Preescolar GCA/WhatsApp Image 2023-06-07 at 16.54.26.jpeg
+preescolar-63	4. Preescolar GCA/WhatsApp Image 2023-06-07 at 16.54.27.jpeg
+play-and-play-01	5. Festival Play and Play/1.IMG_7567.JPG
+play-and-play-02	5. Festival Play and Play/1.IMG_7583.JPG
+play-and-play-03	5. Festival Play and Play/1.IMG_7587.JPG
+play-and-play-04	5. Festival Play and Play/1IMG.jpeg
+play-and-play-05	5. Festival Play and Play/2. Portada02_redes.png
+play-and-play-06	5. Festival Play and Play/2.IMG_7472.JPG
+play-and-play-07	5. Festival Play and Play/2.IMG_7475.JPG
+play-and-play-08	5. Festival Play and Play/2.IMG_7487.JPG
+play-and-play-09	5. Festival Play and Play/2.IMG_7490.JPG
+play-and-play-10	5. Festival Play and Play/2.IMG_7496.JPG
+play-and-play-11	5. Festival Play and Play/2.IMG_7517.JPG
+play-and-play-12	5. Festival Play and Play/2.IMG_7520.JPG
+play-and-play-13	5. Festival Play and Play/2.IMG_7531.JPG
+play-and-play-14	5. Festival Play and Play/2.IMG_7533.JPG
+play-and-play-15	5. Festival Play and Play/3. Portada03_redes.png
+play-and-play-16	5. Festival Play and Play/3..jpeg
+play-and-play-17	5. Festival Play and Play/3.IMG_7478.JPG
+play-and-play-18	5. Festival Play and Play/3.IMG_7495.JPG
+play-and-play-19	5. Festival Play and Play/3.IMG_7515.JPG
+play-and-play-20	5. Festival Play and Play/3.IMG_7554.JPG
+play-and-play-21	5. Festival Play and Play/3.IMG_7555.JPG
+play-and-play-22	5. Festival Play and Play/3.IMG_7558.JPG
+play-and-play-23	5. Festival Play and Play/3.IMG_7570.JPG
+play-and-play-24	5. Festival Play and Play/3.IMG_7578.JPG
+play-and-play-25	5. Festival Play and Play/IMG_0218.JPG
+play-and-play-26	5. Festival Play and Play/IMG_1682.JPG
+play-and-play-27	5. Festival Play and Play/IMG_1736.JPG
+play-and-play-28	5. Festival Play and Play/IMG_1813.JPG
+play-and-play-29	5. Festival Play and Play/IMG_1900.JPG
+play-and-play-30	5. Festival Play and Play/IMG_7560.JPG
+muestra-cultural-01	6. Muestras culturales/1ab2ffd0-f9ed-4cc3-a8ee-84768858b706.jpg
+muestra-cultural-02	6. Muestras culturales/6d44c968-9c36-40a8-b60a-a32e88f8faa2.jpg
+muestra-cultural-03	6. Muestras culturales/193c4dbb-6a8c-4ddb-b1bf-03ff3490d693.jpg
+muestra-cultural-04	6. Muestras culturales/278A1166.JPG
+muestra-cultural-05	6. Muestras culturales/278A1237.JPG
+muestra-cultural-06	6. Muestras culturales/278A1300.JPG
+muestra-cultural-07	6. Muestras culturales/278A1349.JPG
+muestra-cultural-08	6. Muestras culturales/278A1401.JPG
+muestra-cultural-09	6. Muestras culturales/278A1426.JPG
+muestra-cultural-10	6. Muestras culturales/278A1470.JPG
+muestra-cultural-11	6. Muestras culturales/321f4f8a-0fe0-41c5-aeb4-6d60d07f8b46.jpg
+muestra-cultural-12	6. Muestras culturales/21712788-5893-4342-9a62-78fee23acba1.jpg
+muestra-cultural-13	6. Muestras culturales/39894154-fdde-4afa-b320-4a3f0c62ce98.jpg
+muestra-cultural-14	6. Muestras culturales/40080309-ebe1-4e4c-a4a8-e41cf8c1ab3f.jpg
+muestra-cultural-15	6. Muestras culturales/a4583546-c325-4404-941b-26f8cfd310ab.jpg
+muestra-cultural-16	6. Muestras culturales/b54680ce-8e70-4b1d-99ec-2f8af9bff7b6.jpg
+muestra-cultural-17	6. Muestras culturales/Elenco completo GCA 2022 - Aladino.png
+muestra-cultural-18	6. Muestras culturales/f1064f63-2471-495b-b1d0-fdb5f29d6d78.jpg
+muestra-cultural-19	6. Muestras culturales/f5255da4-2040-4796-87aa-4629b915ec01.jpg
+muestra-cultural-20	6. Muestras culturales/IMG_0210.JPG
+muestra-cultural-21	6. Muestras culturales/IMG_0211.JPG
+muestra-cultural-22	6. Muestras culturales/IMG_5625.JPG
+muestra-cultural-23	6. Muestras culturales/IMG_5959.JPG
+muestra-cultural-24	6. Muestras culturales/MuestraculturaGCA18_elenco2.png
+muestra-cultural-25	6. Muestras culturales/WhatsApp Image 2024-10-20 at 14.27.21 (2).jpeg
+muestra-cultural-26	6. Muestras culturales/WhatsApp Image 2024-10-20 at 14.27.21.jpeg
+muestra-cultural-27	6. Muestras culturales/WhatsApp Image 2024-10-20 at 14.30.26.jpeg
+muestra-cultural-28	6. Muestras culturales/WhatsApp Image 2024-10-20 at 20.12.48.jpeg
+mun-01	7. Modelo de las Naciones Unidad - MUN/7dc126e0-6632-40aa-9e09-cf0f68dbd513.jpg
+mun-02	7. Modelo de las Naciones Unidad - MUN/19.png
+mun-03	7. Modelo de las Naciones Unidad - MUN/20.png
+mun-04	7. Modelo de las Naciones Unidad - MUN/0600f5e9-99c5-41a7-8231-9aa6dec4c4e7.jpg
+mun-05	7. Modelo de las Naciones Unidad - MUN/047743CE-5846-4968-8A92-ED5EE7BF1DB2.jpg
+mun-06	7. Modelo de las Naciones Unidad - MUN/74257161-d2f2-476a-a6d6-96caad3d11aa.jpg
+mun-07	7. Modelo de las Naciones Unidad - MUN/ac87e979-d2b3-474e-8529-31fba2d704aa.jpg
+mun-08	7. Modelo de las Naciones Unidad - MUN/ba47230b-1a34-4840-851e-ccf76c517bd1.jpg
+primaria-01	8. Primaria GCA/IMG_0265.JPG
+primaria-02	8. Primaria GCA/IMG_0272.JPG
+primaria-03	8. Primaria GCA/IMG_0307.JPG
+primaria-04	8. Primaria GCA/IMG_6676.JPG
+primaria-05	8. Primaria GCA/IMG_6682.JPG
+primaria-06	8. Primaria GCA/IMG_6683.JPG
+primaria-07	8. Primaria GCA/IMG_6729.JPG
+primaria-08	8. Primaria GCA/IMG_6735.JPG
+primaria-09	8. Primaria GCA/IMG_6738.JPG
+primaria-10	8. Primaria GCA/IMG_6743.JPG
+primaria-11	8. Primaria GCA/IMG_6868.JPG
+primaria-12	8. Primaria GCA/IMG_6872.JPG
+primaria-13	8. Primaria GCA/IMG_6873.JPG
+primaria-14	8. Primaria GCA/IMG_6874.JPG
+primaria-15	8. Primaria GCA/IMG_6875.JPG
+primaria-16	8. Primaria GCA/IMG_6948.JPG
+primaria-17	8. Primaria GCA/IMG_672822rr2.jpg
+primaria-18	8. Primaria GCA/Portada_sombrerosmágicos.png
+primaria-19	8. Primaria GCA/WhatsApp Image 2025-05-02 at 2.43.01 PM.jpeg
+primaria-20	8. Primaria GCA/WhatsApp Image 2025-05-02 at 2.43.08 PM (1).jpeg
+primaria-21	8. Primaria GCA/WhatsApp Image 2025-05-02 at 2.43.38 PM.jpeg
+secundaria-media-01	9. Secundaria y Media GCA/IMG_0092.HEIC
+secundaria-media-02	9. Secundaria y Media GCA/IMG_0257.JPG
+secundaria-media-03	9. Secundaria y Media GCA/IMG_0291.JPG
+secundaria-media-04	9. Secundaria y Media GCA/IMG_0292.JPG
+secundaria-media-05	9. Secundaria y Media GCA/IMG_0295.JPG
+secundaria-media-06	9. Secundaria y Media GCA/IMG_0296.JPG
+secundaria-media-07	9. Secundaria y Media GCA/IMG_0315.HEIC
+secundaria-media-08	9. Secundaria y Media GCA/IMG_0316.HEIC
+secundaria-media-09	9. Secundaria y Media GCA/IMG_0329.HEIC
+secundaria-media-10	9. Secundaria y Media GCA/IMG_0431.HEIC
+secundaria-media-11	9. Secundaria y Media GCA/IMG_1086.HEIC
+secundaria-media-12	9. Secundaria y Media GCA/IMG_6686.JPG
+secundaria-media-13	9. Secundaria y Media GCA/IMG_6695.JPG
+secundaria-media-14	9. Secundaria y Media GCA/IMG_6715.JPG
+secundaria-media-15	9. Secundaria y Media GCA/IMG_6886.JPG
+secundaria-media-16	9. Secundaria y Media GCA/IMG_6887.JPG
+secundaria-media-17	9. Secundaria y Media GCA/IMG_6888.JPG
+secundaria-media-18	9. Secundaria y Media GCA/IMG_6896.JPG
+secundaria-media-19	9. Secundaria y Media GCA/IMG_6910.JPG
+secundaria-media-20	9. Secundaria y Media GCA/IMG_6950.JPG
+secundaria-media-21	9. Secundaria y Media GCA/IMG_7452.HEIC
+secundaria-media-22	9. Secundaria y Media GCA/IMG_7660.JPG
+secundaria-media-23	9. Secundaria y Media GCA/IMG_8254.JPG
+secundaria-media-24	9. Secundaria y Media GCA/IMG_8263.JPG
+secundaria-media-25	9. Secundaria y Media GCA/IMG_8310.JPG
+secundaria-media-26	9. Secundaria y Media GCA/IMG_8575.HEIC
+secundaria-media-27	9. Secundaria y Media GCA/IMG_8578.HEIC
+secundaria-media-28	9. Secundaria y Media GCA/IMG_8580.HEIC
+secundaria-media-29	9. Secundaria y Media GCA/IMG_9294.HEIC
+secundaria-media-30	9. Secundaria y Media GCA/IMG_9328.HEIC
+secundaria-media-31	9. Secundaria y Media GCA/IMG_9331.HEIC
+secundaria-media-32	9. Secundaria y Media GCA/IMG_9332.HEIC
+secundaria-media-33	9. Secundaria y Media GCA/Portada_080623.png
+secundaria-media-34	9. Secundaria y Media GCA/SpellingBee2023_Gales.png
+secundaria-media-35	9. Secundaria y Media GCA/WhatsApp Image 2022-09-28 at 13.47.39.jpeg
